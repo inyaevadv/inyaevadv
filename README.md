@@ -1,4 +1,6 @@
-### Hi there 👋
+### Привет 👋
+### Меня зовут Дарья,  я - Аналитик данных.
+
 
 <!--
 **inyaevadv/inyaevadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
